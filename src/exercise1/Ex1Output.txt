@@ -1,0 +1,136 @@
+
+---Task 1---
+Hello World
+
+---Task 2---
+1
+2
+foo
+4
+bar
+foo
+7
+8
+foo
+bar
+11
+foo
+13
+14
+huh
+16
+17
+foo
+19
+bar
+foo
+22
+23
+foo
+bar
+26
+foo
+28
+29
+huh
+31
+32
+foo
+34
+bar
+foo
+37
+38
+foo
+bar
+41
+foo
+43
+44
+huh
+46
+47
+foo
+49
+bar
+foo
+52
+53
+foo
+bar
+56
+foo
+58
+59
+huh
+61
+62
+foo
+64
+bar
+foo
+67
+68
+foo
+bar
+71
+foo
+73
+74
+huh
+76
+77
+foo
+79
+bar
+foo
+82
+83
+foo
+bar
+86
+foo
+88
+89
+huh
+91
+92
+foo
+94
+bar
+foo
+97
+98
+foo
+bar
+
+---Task 3---
+The result is 735
+
+---Task 4---
+The sum is 210
+The product is 2432902008176640000
+
+---Task 5---
+Please enter your full name
+John Doe
+Your initials are JD
+
+---Task 6---
+0 1 8 27 64 125 216 343 512 729 
+
+---Task 7---
+Enter a number
+42
+42 was NOT found in the array
+
+---Task 8---
+Sum of all items is 31
+
+---Task 9---
+Please enter a word
+java
+Letters of java are NOT in in order
+
+---Task 10---
+1 2 3 4 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
