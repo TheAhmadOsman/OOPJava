@@ -105,16 +105,21 @@ foo
 bar
 
 ---Task 3---
-The result is 735
+The sum of all multiples of 7 between 1 and 100 is 735
 
 ---Task 4---
-The sum is 210
-The product is 2432902008176640000
+The sum of all numbers between 1 and 20 is 210
+The product of all numbers between 1 and 20 is 2432902008176640000
 
 ---Task 5---
 Please enter your full name
-John Doe
-Your initials are JD
+John Q Doe
+Your initials are JQD
+
+---Task 5---
+Please enter your full name
+Roman Yasinovskyy
+Your initials are RY
 
 ---Task 6---
 0 1 8 27 64 125 216 343 512 729 
@@ -124,13 +129,24 @@ Enter a number
 42
 42 was NOT found in the array
 
+---Task 7---
+Enter a number
+24
+24 was found in the array
+
 ---Task 8---
-Sum of all items is 31
+Sum of all items in [0 3 7 1 8 0 4 4 0 4 ] is 31
 
 ---Task 9---
 Please enter a word
 java
 Letters of java are NOT in in order
 
+---Task 9---
+Please enter a word
+cpp
+Letters of cpp are in in order
+
 ---Task 10---
-1 2 3 4 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+Prime numbers between 1 and 100
+2 3 4 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 

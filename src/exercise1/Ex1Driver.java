@@ -51,13 +51,13 @@ public class Ex1Driver {
     throw new UnsupportedOperationException("Task 4 is not implemented yet.");
   }
   /**
-   * TODO: Task 5: Ask a user to enter their full name and print the initials (ie John Doe should yield JD)
+   * TODO: Task 5: Ask a user to enter their full name and print the initials (ie John Q Doe should yield JQD)
    */
   public static void task5() {
     throw new UnsupportedOperationException("Task 5 is not implemented yet.");
   }
   /**
-   * TODO: Task 6: Create a static array of 10 elements and initiate each element in it to the cube of its index (Do it in a loop, not during declaration)
+   * TODO: Task 6: Create an array of 10 elements and initiate each element in it to the cube of its index (Do it in a loop, not during declaration)
    */
   public static void task6() {
     throw new UnsupportedOperationException("Task 6 is not implemented yet.");
@@ -71,7 +71,7 @@ public class Ex1Driver {
     throw new UnsupportedOperationException("Task 7 is not implemented yet.");
   }
   /**
-   * TODO: Task 8: Write a function that takes an array of integers as a parameter and returns the sum of its elements
+   * TODO: Task 8: Take an array of integers as a parameter, calculate, print, and return the sum of its elements
    * @param numbers
    * @return 
    */
@@ -79,7 +79,7 @@ public class Ex1Driver {
     throw new UnsupportedOperationException("Task 8 is not implemented yet.");
   }
   /**
-   * TODO: Task 9: Ask a user to enter a word and write a function that tells if letters of a word are ordered (ie "buy" would return true, while "bye" - false)
+   * TODO: Task 9: Ask a user to enter a word and write a function that tells if letters of a word are ordered (ie. "buy" would return true, while "bye" - false).
    * @return 
    */
   public static boolean task9() {
