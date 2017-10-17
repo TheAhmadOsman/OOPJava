@@ -75,6 +75,39 @@ public class JavaBasics {
     System.out.println(word.length());
     System.out.println(word.concat(" College"));
     System.out.println(word + " College");
+    /* Basic operations */
+    System.out.println("\n## Basic Operations");
+    int five = 5;
+    System.out.println(five);
+    System.out.println(1/five);
+    System.out.println(1.0/five);
+    System.out.println("Implicit conversion to String");
+    System.out.println("The value of five is " + five);
+    System.out.println("The value of five + 1 is " + five + 1);
+    System.out.println("The value of five + 1 is " + (five + 1));
+    System.out.printf("The value of five is %d%n", five);
+    System.out.printf("The value of five + 1 is %d%n", five + 1);
+    System.out.println("Simple increment and decrement");
+    System.out.printf("five = %d%n", five);
+    five++;
+    System.out.printf("five++ results in %d%n", five);
+    ++five;
+    System.out.printf("++five results in %d%n", five);
+    five--;
+    System.out.printf("five-- results in %d%n", five);
+    --five;
+    System.out.printf("--five results in %d%n", five);
+    System.out.printf("Mind the position! five = %d%n", five++);
+    System.out.printf("Mind the position! five = %d%n", ++five);
+    System.out.println("Characters");
+    char oneSymbol = 'A';
+    System.out.println(oneSymbol);
+    System.out.println(oneSymbol + "5");
+    oneSymbol++;
+    System.out.println(oneSymbol);
+    for (int i = 32; i < 127; i++) {
+      System.out.printf("%c%n", i);
+    }
     /* Conditions */
     System.out.println("\n## Conditions");
     divider();
@@ -90,6 +123,9 @@ public class JavaBasics {
     } else {
       System.out.printf("%d is just fine%n", x);
     }
+    /* Condition must be boolean */
+    // The following line is invalid
+    //if (1) System.out.println("one!");
     /* Switch */
     System.out.println("\n### Switch");
     divider();
