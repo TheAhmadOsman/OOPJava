@@ -21,31 +21,50 @@ import java.util.regex.Pattern;
 public class FileIO {
   public static final String PATH = "data/";
   public static void main(String[] args) {
-    /*
+    long start = 0, end = 0;
     try {
+      start = System.currentTimeMillis();
       generateFile(PATH + "roster.txt");
+      end = System.currentTimeMillis();
     } catch (FileNotFoundException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, ex.toString(), ex);
     } catch (IOException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      System.out.printf("Written a file using BufferedWriter in %d ms%n", end - start);
     }
-    */
-    /*
     try {
+      start = System.currentTimeMillis();
+      usePrintWriter(PATH + "roster2.txt");
+      end = System.currentTimeMillis();
+    } catch (FileNotFoundException ex) {
+      Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, ex.toString(), ex);
+    } catch (IOException ex) {
+      Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      System.out.printf("Written a file using PrintWriter in %d ms%n", end - start);
+    }
+    try {
+      start = System.currentTimeMillis();
       readFile(PATH + "roster.txt");
+      end = System.currentTimeMillis();
     } catch (FileNotFoundException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
     } catch (IOException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      System.out.printf("Read a file using BufferedReader in %d ms%n", end - start);
     }
-    */
-    
     try {
+      start = System.currentTimeMillis();
       filterFileByState(PATH + "roster.txt", "MD");
+      end = System.currentTimeMillis();
     } catch (FileNotFoundException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
     } catch (IOException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
+    } finally {
+      System.out.printf("Read a file with regex in %d ms%n", end - start);
     }
     
   }
@@ -58,6 +77,18 @@ public class FileIO {
   public static void generateFile(String filename) throws FileNotFoundException, IOException {
     Faker faker = new Faker();
     BufferedWriter outputFile = new BufferedWriter(new FileWriter(filename));
+    for (int i = 0; i < 10000; i++) {
+      String str = String.format("%s, %s %s %s%n", faker.name().lastName(),
+                                        faker.name().firstName(),
+                                        faker.address().fullAddress(),
+                                        faker.phoneNumber().phoneNumber());
+      outputFile.write(str);
+    }
+    outputFile.close();
+  }
+  public static void usePrintWriter(String filename) throws IOException {
+    Faker faker = new Faker();
+    PrintWriter outputFile = new PrintWriter(new FileWriter(filename));
     for (int i = 0; i < 10000; i++) {
       String str = String.format("%s, %s %s %s%n", faker.name().lastName(),
                                         faker.name().firstName(),
