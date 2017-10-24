@@ -42,20 +42,21 @@ All instructions are written for Ubuntu 16.04 that you started using in Software
 * [Trail: Learning the Java Language (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/)
 * [Primitive Data Types (The Java™ Tutorials > Learning the Java Language > Language Basics)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
-### Collections
-* **[Collections (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)**
-* [Lesson: Interfaces (The Java™ Tutorials > Collections)](https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html)
-* [Collections in Java - javatpoint](https://www.javatpoint.com/collections-in-java)
-* [HashMap vs. TreeMap vs. HashTable vs. LinkedHashMap - DZone Java](https://dzone.com/articles/hashmap-vs-treemap-vs)
-
 ### File I/O
 * [Reading, Writing, and Creating Files (The Java™ Tutorials > Essential Classes > Basic I/O)](https://docs.oracle.com/javase/tutorial/essential/io/file.html)
+* [Java - Write to File | Baeldung](http://www.baeldung.com/java-write-to-file)
 * [Lesson: Basic I/O (The Java™ Tutorials > Essential Classes)](https://docs.oracle.com/javase/tutorial/essential/io/index.html)
 * [Java Files and I/O](https://www.tutorialspoint.com/java/java_files_io.htm)
 * [Pattern (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html)
 * [Lesson: Regular Expressions (The Java™ Tutorials > Essential Classes)](https://docs.oracle.com/javase/tutorial/essential/regex/)
 * [Java Regex - Tutorial](http://www.vogella.com/tutorials/JavaRegularExpressions/article.html)
 * [Java Regular Expressions](https://www.tutorialspoint.com/java/java_regular_expressions.htm)
+
+### Collections
+* **[Collections (Java Platform SE 8 )](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html)**
+* [Lesson: Interfaces (The Java™ Tutorials > Collections)](https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html)
+* [Collections in Java - javatpoint](https://www.javatpoint.com/collections-in-java)
+* [HashMap vs. TreeMap vs. HashTable vs. LinkedHashMap - DZone Java](https://dzone.com/articles/hashmap-vs-treemap-vs)
 
 ### Testing
 * [JUnit 5](http://junit.org/junit5/)
