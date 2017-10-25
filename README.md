@@ -22,6 +22,7 @@ All instructions are written for Ubuntu 16.04 that you started using in Software
 * [Installing Linux in Our Lab | The Pages of Kent D. Lee](http://knuth.luther.edu/~leekent/stories/installing-linux-in-our-lab.html)
 * [NetBeans IDE Java Quick Start Tutorial](https://netbeans.org/kb/docs/java/quickstart.html)
 * [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Fork A Repo - User Documentation](https://help.github.com/articles/fork-a-repo/)
 
 ### Java Overview
 
