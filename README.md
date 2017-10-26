@@ -3,17 +3,19 @@
 All instructions are written for Ubuntu 16.04 that you started using in Software Development Tools (CS165). The Luther College Ubuntu image comes with [Netbeans](https://netbeans.org/) and [OpenJDK](http://openjdk.java.net/) preinstalled. If you need to install JDK and Netbeans, use the [Netbeans/JDK bunle](http://www.oracle.com/technetwork/java/javase/downloads/index.html) specific for your platform. It's your responsibility to make the necessary changes if you are using a different OS (macOS, Windows, other flavors of Linux) or IDE.
 
 1. Check the version of Java you have installed: `java -version` and `javac -version` should return something like `1.8.0_144`. It's fine to see a different version, but if `java` is not a recognized command, you need to install JDK.
-1. Fork [java-class-pub](https://github.com/yasiro01/java-class-pub/) repository on GitHub.
+1. Fork [java-class-pub](https://github.com/yasiro01/java-class-pub/) repository on GitHub. If you are going to access your repository via SSH, add your **public** key to your GitHub account. See [Adding a new SSH key to your GitHub account - User Documentation](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) for details.
 1. Start Netbeans and choose *Team\Remote\Clone* from the menu.
-1. Enter **your** repository's URL. I'm going to use *git@github.com:yasiro01/java-class-pub.git* in this tutorial.
-1. Choose authentication with Private/Public Key and browse to pick your **id_rsa** file. Mine is in */home/yasiro01/.ssh/id_rsa*. Enter the passphrase you used when generated the keys.
-1. Specify the target **parent** directory. Mine is */home/yasiro01/Projects*.
+1. Enter **your** repository's URL. As I'm going to use SSH authentication, my URL is `git@github.com:yasiro01/java-class-pub.git` in this tutorial. It's `https://github.com/yasiro01/java-class-pub.git` for HTTPS access. If you don't have SSH keys, follow the GitHub tutorials on [Generating a new SSH key and adding it to the ssh-agent - User Documentation](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) or use HTTPS access and authenticate via username/password.
+1. If you are using SSH, choose authentication with Private/Public Key and browse to pick your **id_rsa** file. Mine is in `/home/yasiro01/.ssh/id_rsa`. Enter the passphrase you used when generated the keys.
+1. If you are using HTTPS, choose authentication with username/password and enter your GitHub credentials.
+1. Specify the target **parent** directory. Mine is `/home/yasiro01/Projects`.
 1. Click **Next** and proceed to the branch selection.
 1. You should see a single branch, **master**, already selected. Click **Next** to proceed to the final step.
 1. You will see you parent directory, clone name, checkout branch, and the remote name. Click **Finish** to complete the process.
 1. The repository contains project configuration files, so it should be immediately recognized by Netbeans as a valid project.
 1. Netbeans has a graphical interface to Git that you can access either via *Team* menu or the project context menu. You can also use terminal and execute [git commands](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) there.
-1. I recommend that you keep my code templates from the **upstream** as a separate branch of your repository.
+1. I recommend that you keep my code templates from the **upstream** as a separate branch (master) of your repository. See [Syncing a fork - User Documentation](https://help.github.com/articles/syncing-a-fork/) for details.
+1. Create a separate branch for each assignment. See [Create a new branch with git and manage branches · Kunena/Kunena-Forum Wiki](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) for details.
 
 ## References
 
