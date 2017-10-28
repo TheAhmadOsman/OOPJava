@@ -10,6 +10,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.PrintWriter;
+import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
@@ -57,7 +58,7 @@ public class FileIO {
     }
     try {
       start = System.currentTimeMillis();
-      filterFileByState(PATH + "roster.txt", "MD");
+      filterFileByState(PATH + "roster.txt", "IA");
       end = System.currentTimeMillis();
     } catch (FileNotFoundException ex) {
       Logger.getLogger(FileIO.class.getName()).log(Level.SEVERE, null, ex);
@@ -94,7 +95,7 @@ public class FileIO {
                                         faker.name().firstName(),
                                         faker.address().fullAddress(),
                                         faker.phoneNumber().phoneNumber());
-      outputFile.write(str);
+      outputFile.println(str);
     }
     outputFile.close();
   }
@@ -108,7 +109,10 @@ public class FileIO {
     BufferedReader inputFile = new BufferedReader(new FileReader(filename));
     String line;
     while ((line = inputFile.readLine()) != null) {
-        System.out.println(line);
+        Scanner lineContent = new Scanner(line);
+        while (lineContent.hasNext()) {
+            System.out.println(lineContent.next());
+        }
     }
   }
   public static void filterFileByState(String filename, String state) throws FileNotFoundException, IOException {
