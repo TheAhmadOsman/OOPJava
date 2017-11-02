@@ -31,7 +31,7 @@ public class Ex2Driver {
   }
 
   /**
-   * TODO: Task 1: Define and call a function nHeads() that takes a number (n) as a parameter and prints the result of coin flips ("Heads" or "Tails" with equal probability) until there are n "Heads" in a row. Seed the randomizer in the main() function.
+   * TODO: Task 1: Define and call a function that takes a number (n) as a parameter and prints the result of coin flips ("Heads" or "Tails" with equal probability) until there are n "Heads" in a row.
    * @param n
    */
   public static void task1(int n) {
