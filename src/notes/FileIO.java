@@ -173,4 +173,29 @@ public class FileIO {
     }
     return result;
   }
+  /**
+   * Get dimensions of a matrix from file content
+   * @param filename
+   * @return
+   * @throws FileNotFoundException
+   * @throws IOException 
+   */
+  public static int[] getDimensions(String filename) throws FileNotFoundException, IOException {
+    int[] dimensions = new int[2];
+    int row = 0, col = 0;
+    BufferedReader inputFileContent = new BufferedReader(new FileReader(filename));
+    String line;
+    while ((line = inputFileContent.readLine()) != null) {
+      row++;
+      Scanner lineContent = new Scanner(line);
+      col = 0;
+      while (lineContent.hasNextInt()) {
+        col++;
+        lineContent.nextInt();
+      }
+    }
+    dimensions[0] = row;
+    dimensions[1] = col;
+    return dimensions;
+  }
 }

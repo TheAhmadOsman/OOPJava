@@ -34,6 +34,19 @@ public class FileIOTest {
   }
 
   /**
+   * Test of main method, of class FileIO.
+   */
+  @Test
+  @Ignore
+  public void testMain() {
+    System.out.println("main");
+    String[] args = null;
+    FileIO.main(args);
+    // TODO review the generated test code and remove the default call to fail.
+    fail("The test case is a prototype.");
+  }
+
+  /**
    * Test of generateFile method, of class FileIO.
    */
   @Test
@@ -108,6 +121,18 @@ public class FileIOTest {
     int expResult = 143;
     int result = FileIO.sumNumbers(filename);
     assertEquals(expResult, result);
+  }
+
+  /**
+   * Test of getDimensions method, of class FileIO.
+   */
+  @Test
+  public void testGetDimensions() throws Exception {
+    System.out.println("getDimensions");
+    String filename = "data/numbers.txt";
+    int[] expResult = {2, 5};
+    int[] result = FileIO.getDimensions(filename);
+    assertArrayEquals(expResult, result);
   }
   
 }
