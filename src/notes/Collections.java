@@ -61,7 +61,7 @@ public class Collections {
     
     /*--------------------------------*/
     System.out.println("\nHashSet");
-    HashSet<Student> gbSet=new HashSet<>();
+    HashSet<Student> gbSet = new HashSet();
     for (int i = 0; i < 5; i++) {
       Student s = new Student(person.name().firstName(), 60 + rnd.nextInt(40));
       gbSet.add(s);
