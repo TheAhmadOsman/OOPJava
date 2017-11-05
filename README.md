@@ -67,6 +67,8 @@ All instructions are written for Ubuntu 16.04 that you started using in Software
 * **[Unit Testing with JUnit - Tutorial](http://www.vogella.com/tutorials/JUnit/article.html)**
 * [JUnit Test Framework](https://www.tutorialspoint.com/junit/junit_test_framework.htm)
 * [How I Write Tests - Made of Bugs](https://blog.nelhage.com/2016/12/how-i-test/)
+* [JUnit Tutorial for Beginners - Learn Java Unit Testing | Udemy](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
+* [Getting started · junit-team/junit4 Wiki](https://github.com/junit-team/junit4/wiki/Getting-started)
 
 ### OOP
 
