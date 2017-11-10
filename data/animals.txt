@@ -1,0 +1,494 @@
+ID        Name                     Age       Species                    Location
+4921      Chunk                    34   Jaguar                           55
+4922      Wind                     99   Newt                             40
+4923      Underrated Thunder       74   Macaroni Penguin                 13
+4924      Axe                      23   Long-Eared Owl                   37
+4925      Wild Isotope             28   Humboldt Penguin                 21
+4926      Night Star               26   Cavalier King Charles Spaniel    62
+4927      Random Bully             52   Armadillo                        53
+4928      Cunning Fury             38   Pink Fairy Armadillo             74
+4929      Evening Chunk            50   Gecko                            77
+4930      Thunder                  38   Jaguar                           89
+4931      Shining Lover            85   Jaguar                           12
+4932      Hope                     74   Quail                            67
+4933      Earring                  87   Cavalier King Charles Spaniel    18
+4934      Juggernaut               76   Armadillo                        39
+4935      Morning Isotope          43   Armadillo                        81
+4936      Wild Lover               100  Long-Eared Owl                   73
+4937      Awesome Fury             51   Wombat                            1
+4938      Thunder                  32   Quail                            78
+4939      Thunder                  98   Pink Fairy Armadillo             79
+4940      Evening Hope             18   Gecko                            56
+4941      Fearsome Juggernaut      34   Fennec Fox                       70
+4942      Hope                     65   Kudu                             71
+4943      Fearsome Lover           94   Beaver                           31
+4944      Juggernaut               11   Humboldt Penguin                 34
+4945      Thunder                  73   Cavalier King Charles Spaniel    47
+4946      Joyful Pirate            93   Gecko                             2
+4947      Gentle Pirate            71   Dusky Dolphin                     8
+4948      Pessimistic Maverick     5    Armadillo                        72
+4949      Evening Lover            43   Armadillo                        30
+4950      Bully                    99   Long-Eared Owl                    4
+4951      Random Diamond           84   Tapir                            69
+4952      Fury                     79   Humboldt Penguin                 50
+4953      Fearsome Bully           82   Jaguar                           72
+4954      Cunning Bully            22   Otter                            63
+4955      Leaping Juggernaut       99   Jaguar                           45
+4956      Pirate                   37   Wombat                           27
+4957      Maverick                 24   Elephant                         64
+4958      Shining Chunk            8    Gecko                            87
+4959      Chunk                    99   Fennec Fox                       75
+4960      Morning Maverick         49   Cavalier King Charles Spaniel    78
+4961      Killer                   11   Otter                            48
+4962      Brave Killer             75   Pink Fairy Armadillo             50
+4963      Wild Maverick            53   Dusky Dolphin                    55
+4964      Joyful Fury              31   Kudu                             78
+4965      Shining Maverick         94   Beaver                           69
+4966      Pirate                   99   Fennec Fox                       46
+4967      Underrated Bully         59   Newt                             55
+4968      Random Star              26   Armadillo                        25
+4969      Shining Lover            36   Elephant                         36
+4970      Axe                      41   Dusky Dolphin                    12
+4971      Juggernaut               59   Humboldt Penguin                  3
+4972      Underrated Killer        79   Beaver                           54
+4973      Pessimistic Isotope      77   Elephant                         46
+4974      Diamond                  38   Armadillo                        55
+4975      Morning Lover            16   Tapir                           100
+4976      Random Pirate            37   Tapir                            17
+4977      Fury                     86   Dusky Dolphin                     4
+4978      Morning Isotope          38   Shih Tzu                         13
+4979      Juggernaut               93   Macaroni Penguin                 83
+4980      Underrated Diamond       57   Gecko                            31
+4981      Diamond                  90   Macaroni Penguin                 19
+4982      Thunder                  11   Humboldt Penguin                 57
+4983      Joyful Chunk             55   Beaver                           16
+4984      Evening Maverick         21   Dusky Dolphin                    63
+4985      Fury                     20   Quail                            42
+4986      Joyful Juggernaut        43   Pink Fairy Armadillo             99
+4987      Diamond                  1    Shih Tzu                         33
+4988      Bully                    21   Fennec Fox                       96
+4989      Gentle Isotope           86   Otter                            50
+4990      Juggernaut               60   Armadillo                        25
+4991      Cunning Star             57                                    99
+4992      Random Pirate            55   Armadillo                         1
+4993      Axe                      1    Pink Fairy Armadillo             75
+4994      Lover                    8    Cavalier King Charles Spaniel    99
+4995      Pirate                   65   Tapir                            14
+4996      Fearsome Isotope         80   Macaroni Penguin                 95
+4997      Maverick                 83   Otter                            79
+4998      Pirate                   5    Beaver                           60
+4999      Killer                   32   Tapir                            12
+5000      Leaping Chunk            75   Shih Tzu                         81
+5001      Fury                     48   Armadillo                        88
+5002      Wind                     40   Quail                            53
+5003      Fury                     72   Otter                            47
+5004      Killer                   51   Racoon Dog                       38
+5005      Star                     93   Humboldt Penguin                 87
+5006      Cunning Chunk            77   Armadillo                        67
+5007      Maverick                 21   Armadillo                        11
+5008      Hope                     48   Otter                            33
+5009      Earring                  70   Macaroni Penguin                 91
+5010      Random Wind              46   Humboldt Penguin                 42
+5011      Lover                    60   Wombat                           24
+5012      Hope                     26   Quail                             5
+5013      Optimistic Hope          27   Tapir                            67
+5014      Wild Earring             49   Shih Tzu                         42
+5015      Joyful Star              13   Racoon Dog                        9
+5016      Brave Lover              95   Wombat                           26
+5017      Hope                     80   Kudu                             11
+5018      Wind                     52   Shih Tzu                         46
+5019      Lover                    51   Pink Fairy Armadillo             50
+5020      Thunder                  10   Cavalier King Charles Spaniel     1
+5021      Awesome Isotope          46   Tapir                            44
+5022      Morning Killer           22   Beaver                           88
+5023      Chunk                    46   Newt                             84
+5024      Night Star               87   Armadillo                         8
+5025      Pessimistic Diamond      64   Jaguar                           78
+5026      Pessimistic Killer       71   Cavalier King Charles Spaniel    76
+5027      Wild Lover               89   Armadillo                        80
+5028      Fury                     95   Long-Eared Owl                   26
+5029      Axe                      78   Cavalier King Charles Spaniel    94
+5030      Wild Fury                2    Gecko                            31
+5031      Cunning Star             74   Jaguar                           72
+5032      Earring                  37   Long-Eared Owl                   76
+5033      Isotope                  54   Macaroni Penguin                 39
+5034      Evening Wind             72   Dusky Dolphin                    41
+5035      Earring                  41   Long-Eared Owl                   51
+5036      Chunk                    7    Dusky Dolphin                    60
+5037      Maverick                 29   Gecko                            32
+5038      Chunk                    95   Pink Fairy Armadillo             82
+5039      Wind                     22   Dusky Dolphin                    89
+5040      Wild Axe                 93   Beaver                           44
+5041      Optimistic Axe           12   Wombat                           28
+5042      Fury                     62   Macaroni Penguin                 44
+5043      Random Hope              43   Otter                            24
+5044      Pessimistic Lover        24   Kudu                              3
+5045      Wind                     45   Armadillo                        79
+5046      Lover                    83   Fennec Fox                        5
+5047      Star                     70   Humboldt Penguin                 86
+5048      Killer                   80   Humboldt Penguin                 80
+5049      Brave Chunk              51   Fennec Fox                       61
+5050      Shining Fury             4    Jaguar                           39
+5051      Diamond                  85   Quail                            97
+5052      Maverick                 42   Armadillo                        96
+5053      Chunk                    17   Humboldt Penguin                 39
+5054      Hope                     67   Elephant                         65
+5055      Fearsome Fury            22   Humboldt Penguin                 30
+5056      Gentle Fury              56   Tapir                            40
+5057      Cunning Star             19   Kudu                             56
+5058      Fury                     15   Elephant                         69
+5059      Evening Fury             65                                    39
+5060      Axe                      60   Gecko                            18
+5061      Maverick                 33   Dusky Dolphin                    30
+5062      Pessimistic Pirate       89   Wombat                           56
+5063      Gentle Lover             62   Jaguar                           47
+5064      Earring                  81   Newt                             24
+5065      Underrated Isotope       49   Macaroni Penguin                 67
+5066      Random Thunder           25   Fennec Fox                       78
+5067      Lover                    71   Fennec Fox                       64
+5068      Bully                    96   Tapir                            47
+5069      Pessimistic Lover        6    Gecko                            48
+5070      Earring                  80   Pink Fairy Armadillo             60
+5071      Fury                     3    Gecko                             4
+5072      Thunder                  7    Armadillo                        22
+5073      Chunk                    39   Pink Fairy Armadillo             10
+5074      Thunder                  94   Humboldt Penguin                 67
+5075      Juggernaut               64   Tapir                            50
+5076      Underrated Chunk         59   Wombat                           18
+5077      Pessimistic Axe          46   Newt                               
+5078      Pessimistic Isotope      77   Kudu                             68
+5079      Chunk                    77   Cavalier King Charles Spaniel    79
+5080      Killer                   51   Jaguar                           41
+5081      Earring                  10   Long-Eared Owl                    5
+5082      Pessimistic Killer       13   Otter                            35
+5083      Awesome Wind             60   Gecko                            57
+5084      Star                     34   Racoon Dog                       12
+5085      Diamond                  61   Racoon Dog                       45
+5086      Underrated Wind          17   Macaroni Penguin                 64
+5087      Killer                   23   Wombat                           66
+5088      Axe                      93   Macaroni Penguin                 15
+5089      Axe                      68   Pink Fairy Armadillo             63
+5090      Optimistic Star          30   Beaver                           27
+5091      Lover                    49   Shih Tzu                         15
+5092      Shining Pirate           74   Armadillo                        73
+5093      Underrated Chunk         79   Tapir                            45
+5094      Underrated Hope          98   Dusky Dolphin                    65
+5095      Wind                     71   Tapir                            24
+5096      Fury                     19   Kudu                             41
+5097      Wild Lover               56   Quail                             3
+5098      Fearsome Isotope         97   Pink Fairy Armadillo             78
+5099      Bully                    95   Beaver                           74
+5100      Bully                    74   Humboldt Penguin                 36
+5101      Lover                    49   Jaguar                           92
+5102      Night Star               71   Kudu                             55
+5103      Thunder                  28   Macaroni Penguin                 33
+5104      Gentle Maverick          5    Armadillo                         7
+5105      Underrated Isotope       87   Tapir                            56
+5106      Fearsome Juggernaut      7    Dusky Dolphin                    24
+5107      Leaping Diamond          3    Beaver                           48
+5108      Wind                     96   Jaguar                           94
+5109      Random Star              61   Pink Fairy Armadillo             23
+5110      Maverick                 98   Wombat                           67
+5111      Night Pirate             23   Armadillo                        55
+5112      Maverick                 9    Wombat                           89
+5113      Pirate                   77   Humboldt Penguin                 15
+5114      Brave Bully              79   Elephant                         23
+5115      Isotope                  44   Racoon Dog                       81
+5116      Evening Axe              69   Wombat                           59
+5117      Pirate                   81   Racoon Dog                        6
+5118      Earring                  80   Quail                            92
+5119      Diamond                  52   Newt                             89
+5120      Pirate                   5    Tapir                            40
+5121      Lover                    29   Jaguar                           24
+5122      Underrated Thunder       6    Armadillo                         4
+5123      Cunning Thunder          78   Shih Tzu                         33
+5124      Pessimistic Thunder      68   Tapir                            81
+5125      Juggernaut               1    Armadillo                        36
+5126      Lover                    64   Macaroni Penguin                 20
+5127      Bully                    34   Quail                            67
+5128      Pirate                   2    Armadillo                        98
+5129      Gentle Pirate            34   Shih Tzu                         23
+5130      Chunk                    76   Otter                            38
+5131      Juggernaut               19   Tapir                            49
+5132      Axe                      56   Armadillo                        43
+5133      Awesome Diamond          44   Tapir                            85
+5134      Star                     62   Beaver                           51
+5135      Hope                     87   Newt                             47
+5136      Cunning Fury             6    Long-Eared Owl                   87
+5137      Optimistic Lover         97   Humboldt Penguin                 77
+5138      Chunk                    34   Newt                            100
+5139      Thunder                  29   Jaguar                           70
+5140      Pirate                   47   Fennec Fox                       32
+5141      Pirate                   80   Long-Eared Owl                    8
+5142      Killer                   47   Macaroni Penguin                 25
+5143      Brave Thunder            56   Elephant                         85
+5144      Juggernaut               28   Racoon Dog                       80
+5145      Killer                   89   Dusky Dolphin                    73
+5146      Isotope                  32   Jaguar                           57
+5147      Hope                     27   Pink Fairy Armadillo             98
+5148      Brave Chunk              16   Newt                             57
+5149      Chunk                    41   Racoon Dog                       46
+5150      Axe                      14   Gecko                            52
+5151      Awesome Maverick         73   Kudu                            100
+5152      Awesome Lover            56   Tapir                              
+5153      Morning Maverick         98   Fennec Fox                       61
+5154      Brave Juggernaut         6    Shih Tzu                         21
+5155      Evening Maverick         64   Tapir                            11
+5156      Bully                    58   Dusky Dolphin                    80
+5157      Random Wind              39   Cavalier King Charles Spaniel    67
+5158      Joyful Pirate            19   Cavalier King Charles Spaniel    50
+5159      Evening Earring          24   Shih Tzu                         54
+5160      Pessimistic Diamond      26   Humboldt Penguin                 97
+5161      Wild Diamond             24   Gecko                            61
+5162      Underrated Earring       54   Wombat                           33
+5163      Thunder                  98   Elephant                         10
+5164      Night Fury               99   Macaroni Penguin                 54
+5165      Random Isotope           19   Dusky Dolphin                    18
+5166      Shining Killer           21   Armadillo                        25
+5167      Fury                     52   Long-Eared Owl                   26
+5168      Random Wind              73   Dusky Dolphin                     6
+5169      Thunder                  38   Tapir                            72
+5170      Gentle Pirate            20   Humboldt Penguin                 73
+5171      Wild Star                49   Racoon Dog                       29
+5172      Isotope                  79   Newt                              3
+5173      Optimistic Diamond       21   Gecko                             8
+5174      Night Hope               16   Beaver                           41
+5175      Morning Star             25   Fennec Fox                         
+5176      Earring                  40   Kudu                             85
+5177      Random Wind              4    Elephant                         51
+5178      Pirate                   9    Wombat                           12
+5179      Diamond                  51   Macaroni Penguin                 47
+5180      Leaping Fury             70   Cavalier King Charles Spaniel    90
+5181      Thunder                  10   Quail                            34
+5182      Chunk                    15   Gecko                            67
+5183      Evening Isotope          41   Otter                            89
+5184      Cunning Wind             79   Dusky Dolphin                    28
+5185      Killer                   30   Beaver                           54
+          Brave Chunk              75   Wombat                           54
+5187      Awesome Lover            9    Gecko                            77
+5188      Isotope                  21   Humboldt Penguin                 42
+5189      Pessimistic Maverick     10   Macaroni Penguin                 12
+5190      Fearsome Star            11   Shih Tzu                          6
+5191      Thunder                  60   Racoon Dog                       30
+5192      Fury                     81   Long-Eared Owl                   69
+5193      Maverick                 11   Tapir                            49
+5194      Axe                      59   Jaguar                           36
+5195      Thunder                  30   Long-Eared Owl                   31
+5196      Pirate                   8    Racoon Dog                       43
+5197      Optimistic Chunk         52   Long-Eared Owl                   84
+5198      Pessimistic Lover        49   Quail                            34
+5199      Gentle Wind              72   Long-Eared Owl                   94
+5200      Hope                     91   Humboldt Penguin                 98
+5201      Fearsome Bully           57   Fennec Fox                       47
+5202      Diamond                  89   Dusky Dolphin                    73
+5203      Lover                    95   Quail                            77
+5204      Chunk                    50   Kudu                              5
+5205      Axe                      15   Racoon Dog                       11
+5206      Wind                     72   Humboldt Penguin                 10
+5207      Joyful Thunder           52   Cavalier King Charles Spaniel    14
+5208      Pirate                   30   Shih Tzu                         53
+5209      Isotope                  32   Macaroni Penguin                  7
+          Pessimistic Chunk        47   Shih Tzu                         71
+          Joyful Thunder           79   Long-Eared Owl                   39
+5212      Fury                     27   Wombat                           80
+5213      Thunder                  30   Kudu                             73
+5214      Bully                    28   Armadillo                        29
+5215      Leaping Juggernaut       52   Armadillo                        32
+5216      Shining Star             9    Humboldt Penguin                 96
+          Leaping Lover            53   Elephant                         22
+5218      Juggernaut               63   Dusky Dolphin                    53
+5219      Night Lover              48   Cavalier King Charles Spaniel     5
+5220      Leaping Juggernaut       90   Cavalier King Charles Spaniel    81
+5221      Thunder                  60   Armadillo                        30
+5222      Bully                    51   Fennec Fox                       37
+5223      Wind                     41   Shih Tzu                         89
+5224      Killer                   6    Macaroni Penguin                  3
+5225      Fury                     16   Dusky Dolphin                    80
+5226      Axe                      18   Humboldt Penguin                 66
+5227      Gentle Wind              87   Otter                            55
+          Chunk                    63   Gecko                            11
+5229      Cunning Axe              96   Jaguar                           29
+5230      Thunder                  48   Otter                            24
+5231      Cunning Pirate           86   Dusky Dolphin                    82
+5232      Evening Thunder          59   Wombat                           39
+5233      Maverick                 44   Otter                            61
+5234      Maverick                 35   Kudu                             54
+5235      Random Thunder           24   Racoon Dog                        4
+5236      Shining Juggernaut       74   Pink Fairy Armadillo             29
+5237      Fearsome Fury            18   Newt                             50
+5238      Star                     61   Newt                             65
+5239      Hope                     28   Racoon Dog                       51
+5240      Wind                     68   Otter                             1
+5241      Lover                    84   Humboldt Penguin                 16
+5242      Maverick                 6    Otter                            31
+5243      Axe                      75   Quail                            38
+5244      Underrated Axe           68   Macaroni Penguin                 98
+5245      Thunder                  9    Jaguar                           22
+5246      Optimistic Maverick      89   Humboldt Penguin                 75
+5247      Night Juggernaut         20   Quail                            11
+5248      Fearsome Wind            38   Kudu                             37
+5249      Wild Bully               97   Cavalier King Charles Spaniel    32
+5250      Cunning Lover            85   Otter                            79
+5251      Earring                  17   Armadillo                        86
+5252      Pessimistic Maverick     80   Racoon Dog                       90
+5253      Maverick                 40   Wombat                           66
+5254      Gentle Lover             80   Humboldt Penguin                  2
+5255      Wind                     4    Tapir                            78
+5256      Chunk                    89   Humboldt Penguin                 95
+5257      Morning Lover            11   Dusky Dolphin                    98
+5258      Night Diamond            39   Humboldt Penguin                 56
+5259      Fury                     54   Shih Tzu                         46
+5260      Star                     78   Quail                            53
+5261      Pessimistic Diamond      45   Armadillo                        34
+5262      Wind                     26   Jaguar                           71
+5263      Chunk                    57   Racoon Dog                       17
+5264      Brave Juggernaut         10   Long-Eared Owl                   35
+5265      Lover                    34   Cavalier King Charles Spaniel      
+5266      Diamond                  36   Otter                           100
+5267      Isotope                  47   Wombat                           72
+5268      Fury                     6    Pink Fairy Armadillo             60
+5269      Fury                     47   Armadillo                        61
+5270      Shining Diamond          41   Armadillo                        45
+5271      Lover                    32   Wombat                           31
+5272      Lover                    59   Gecko                            22
+5273      Fearsome Thunder         53   Dusky Dolphin                    18
+5274      Pessimistic Fury         19   Tapir                            38
+5275      Night Hope               16   Otter                            75
+5276      Random Earring           84   Quail                            87
+5277      Earring                  40   Beaver                           36
+5278      Night Isotope            85   Pink Fairy Armadillo             82
+5279      Axe                      78   Long-Eared Owl                   74
+5280      Killer                   4    Pink Fairy Armadillo             89
+5281      Diamond                  56   Tapir                            32
+5282      Underrated Juggernaut    95   Long-Eared Owl                   69
+5283      Random Maverick          42   Jaguar                           14
+5284      Star                     38   Quail                           100
+5285      Wild Fury                3    Quail                            70
+5286      Shining Diamond          62   Macaroni Penguin                 94
+5287      Night Chunk              7    Racoon Dog                       31
+5288      Pessimistic Fury         71   Racoon Dog                       22
+5289      Awesome Wind             59   Macaroni Penguin                  9
+5290      Brave Maverick           22   Macaroni Penguin                 55
+5291      Shining Wind             9    Elephant                         59
+5292      Bully                    79   Dusky Dolphin                    50
+5293      Brave Hope               3    Pink Fairy Armadillo             19
+5294      Night Axe                22   Dusky Dolphin                    37
+5295      Earring                  43   Fennec Fox                       30
+5296      Shining Star             62   Elephant                         23
+5297      Evening Killer           28   Macaroni Penguin                 59
+5298      Isotope                  98   Gecko                            48
+5299      Underrated Juggernaut    86   Shih Tzu                         62
+5300      Wind                     53   Beaver                           97
+5301      Pessimistic Fury         47   Armadillo                        71
+5302      Gentle Maverick          41   Elephant                         89
+5303      Chunk                    76   Tapir                            58
+5304      Diamond                  21   Beaver                           28
+5305      Morning Hope             16   Pink Fairy Armadillo             97
+5306      Thunder                  65   Otter                            45
+5307      Diamond                  32   Otter                            78
+5308      Axe                      14   Beaver                           19
+5309      Brave Lover              47   Shih Tzu                         31
+5310      Earring                  45   Dusky Dolphin                    97
+5311      Evening Chunk            4    Quail                            99
+5312      Juggernaut               94   Beaver                           22
+5313      Juggernaut               73   Kudu                              7
+5314      Evening Fury             92   Racoon Dog                       25
+5315      Earring                  62   Dusky Dolphin                     4
+5316      Fearsome Hope            16   Humboldt Penguin                 66
+5317      Diamond                  28   Pink Fairy Armadillo             50
+5318      Diamond                  8    Newt                              1
+5319      Killer                   35   Fennec Fox                       25
+5320      Axe                      97   Quail                            48
+5321      Hope                     83   Armadillo                        25
+5322      Morning Thunder          97   Macaroni Penguin                 40
+5323      Fearsome Star            21   Macaroni Penguin                 35
+5324      Wild Juggernaut          13   Otter                            83
+5325      Isotope                  3    Humboldt Penguin                 71
+5326      Gentle Fury              56   Otter                            63
+5327      Random Earring           83   Newt                            100
+5328      Star                     82   Beaver                            6
+5329      Killer                   36   Racoon Dog                       84
+5330      Gentle Killer            20   Elephant                         46
+5331      Isotope                  55   Gecko                            57
+5332      Pirate                        Elephant                          3
+5333      Earring                  75   Pink Fairy Armadillo              9
+5334      Optimistic Maverick      38   Quail                            51
+5335      Pirate                   78   Wombat                           76
+5336      Axe                      87   Jaguar                           14
+5337      Earring                  61   Otter                            83
+5338      Hope                     62   Pink Fairy Armadillo             95
+5339      Awesome Lover            60   Otter                            33
+5340      Shining Killer           16   Otter                            71
+5341      Killer                   51   Dusky Dolphin                    81
+5342      Isotope                  48   Newt                             79
+5343      Leaping Chunk            74   Beaver                            1
+5344      Gentle Wind              83   Tapir                            38
+5345      Juggernaut               48   Newt                             63
+5346      Underrated Earring       48   Otter                            33
+5347      Brave Star               64   Tapir                            32
+5348      Evening Bully            69   Wombat                           76
+5349      Earring                  77   Jaguar                           42
+5350      Bully                    16   Newt                             82
+5351      Night Bully              34   Dusky Dolphin                    59
+5352      Gentle Hope              70   Quail                            42
+5353      Pessimistic Earring      51   Pink Fairy Armadillo             23
+5354      Fury                     79   Kudu                             72
+5355      Earring                  70   Long-Eared Owl                   25
+5356      Isotope                  72   Cavalier King Charles Spaniel    78
+5357      Random Earring           28   Dusky Dolphin                     3
+5358      Wild Pirate              6    Racoon Dog                       73
+5359      Leaping Lover            8    Newt                              9
+5360      Pessimistic Pirate       89   Racoon Dog                       12
+5361      Optimistic Hope          56                                    98
+5362      Leaping Diamond          87   Long-Eared Owl                   25
+5363      Isotope                  59   Beaver                           44
+5364      Underrated Bully         27   Elephant                         75
+5365      Leaping Earring          10   Long-Eared Owl                   44
+5366      Awesome Star             70   Wombat                           47
+5367      Morning Axe              51   Newt                             16
+5368      Pessimistic Juggernaut   31   Kudu                             40
+5369      Gentle Juggernaut        42   Wombat                           75
+5370      Thunder                  95   Jaguar                           29
+5371      Optimistic Bully         34   Wombat                           68
+5372      Pessimistic Bully        58   Humboldt Penguin                 34
+5373      Evening Killer           61   Racoon Dog                       31
+5374      Night Chunk              69   Otter                            82
+5375      Killer                   37   Fennec Fox                       56
+5376      Joyful Axe               86   Wombat                           84
+5377      Evening Juggernaut       70   Pink Fairy Armadillo             36
+5378      Fury                     63   Beaver                           97
+5379      Gentle Hope              54   Gecko                             1
+5380      Underrated Maverick      83   Humboldt Penguin                 88
+5381      Underrated Hope          60   Kudu                              7
+5382      Bully                    46   Long-Eared Owl                   73
+5383      Maverick                 68   Fennec Fox                       60
+5384      Random Fury              50   Newt                             36
+5385      Maverick                 94   Wombat                           38
+5386      Chunk                    58   Elephant                         58
+5387      Star                     96   Macaroni Penguin                 37
+5388      Pirate                   54   Racoon Dog                       71
+5389      Leaping Pirate           72   Jaguar                           27
+5390      Cunning Wind             6    Dusky Dolphin                    21
+5391      Pirate                   85   Quail                            37
+5392      Lover                    69                                    71
+5393      Wind                     63   Pink Fairy Armadillo             77
+          Random Wind              83   Newt                              3
+5395      Brave Isotope            28   Fennec Fox                       38
+5396      Pirate                        Long-Eared Owl                   44
+5397      Night Lover              97   Humboldt Penguin                 38
+5398      Cunning Juggernaut       63   Shih Tzu                         20
+5399      Fearsome Isotope         31   Otter                            62
+5400      Pessimistic Earring      23   Fennec Fox                       51
+5401      Joyful Juggernaut        54   Fennec Fox                       94
+5402      Bully                    60   Long-Eared Owl                   23
+5403      Joyful Isotope           96   Pink Fairy Armadillo             61
+5404      Shining Killer           37   Racoon Dog                       36
+5405      Chunk                    2    Jaguar                           38
+5406      Gentle Maverick          36   Elephant                         44
+5407      Awesome Juggernaut       18   Dusky Dolphin                    48
+5408      Morning Lover            49   Jaguar                            1
+5409      Awesome Pirate           83   Elephant                         20
+5410      Random Maverick          42   Gecko                             5
+5411      Isotope                  52   Beaver                           29
+5412      Fury                     19   Dusky Dolphin                    86
+

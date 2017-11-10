@@ -47,27 +47,27 @@ public class FileIOTest {
   }
 
   /**
-   * Test of generateFile method, of class FileIO.
+   * Test of generateFileUsingBufferedWriter method, of class FileIO.
    */
   @Test
   @Ignore
   public void testGenerateFile() throws Exception {
     System.out.println("generateFile");
     String filename = "";
-    FileIO.generateFile(filename);
+    FileIO.generateFileUsingBufferedWriter(filename);
     // TODO review the generated test code and remove the default call to fail.
     fail("The test case is a prototype.");
   }
 
   /**
-   * Test of usePrintWriter method, of class FileIO.
+   * Test of generateFileUsingPrintWriter method, of class FileIO.
    */
   @Test
   @Ignore
   public void testUsePrintWriter() throws Exception {
     System.out.println("usePrintWriter");
     String filename = "";
-    FileIO.usePrintWriter(filename);
+    FileIO.generateFileUsingPrintWriter(filename);
     // TODO review the generated test code and remove the default call to fail.
     fail("The test case is a prototype.");
   }
@@ -133,6 +133,18 @@ public class FileIOTest {
     int[] expResult = {2, 5};
     int[] result = FileIO.getDimensions(filename);
     assertArrayEquals(expResult, result);
+  }
+
+  /**
+   * Test of readFileUsingSplit method, of class FileIO.
+   */
+  @Test
+  public void testReadFileUsingSplit() throws Exception {
+    System.out.println("readFileUsingSplit");
+    String filename = "";
+    FileIO.readFileUsingSplit(filename);
+    // TODO review the generated test code and remove the default call to fail.
+    fail("The test case is a prototype.");
   }
   
 }

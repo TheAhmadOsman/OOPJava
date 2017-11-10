@@ -1,0 +1,25 @@
+Axe,41,Frog
+Bully,21,Lemur
+Diamond,1,Lemur
+Diamond,38,Crow
+Diamond,90,Kangaroo
+Evening Maverick,21,Kangaroo
+Fury,20,Lemur
+Fury,62,Owl
+Fury,86,Owl
+Gentle Isotope,86,Crow
+Joyful Chunk,55,Kangaroo
+Joyful Juggernaut,43,Lemur
+Juggernaut,59,Frog
+Juggernaut,60,Frog
+Juggernaut,93,Owl
+Morning Isotope,38,Owl
+Morning Lover,16,Crow
+Optimistic Axe,12,Lemur
+Pessimistic Isotope,77,Crow
+Random Pirate,37,Crow
+Shining Lover,36,Frog
+Thunder,11,Kangaroo
+Underrated Diamond,57,Owl
+Underrated Killer,79,Frog
+Wild Axe,93,Kangaroo

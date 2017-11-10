@@ -1,0 +1,20 @@
+Awesome Fury,51,Owl
+Axe,23,Kangaroo
+Chunk,34,Frog
+Cunning Fury,38,Crow
+Earring,87,Owl
+Evening Chunk,50,Frog
+Evening Hope,18,Crow
+Hope,74,Lemur
+Juggernaut,76,Crow
+Morning Isotope,43,Crow
+Night Star,26,Lemur
+Random Bully,52,Owl
+Shining Lover,85,Owl
+Thunder,32,Lemur
+Thunder,38,Kangaroo
+Thunder,98,Frog
+Underrated Thunder,74,Lemur
+Wild Isotope,28,Kangaroo
+Wild Lover,100,Frog
+Wind,99,Kangaroo
