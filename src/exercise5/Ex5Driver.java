@@ -1,7 +1,10 @@
 package exercise5;
 
 /**
- * @author yasiro01
+ * 
+ * @author Ahmad M. Osman - Original template by Dr. Roman Yasinovskyy
+ * @assignment Week 4: Exercise 5
+ * 
  */
 public class Ex5Driver {
   public static void main(String[] args) {
