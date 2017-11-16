@@ -1,0 +1,24 @@
+We have 4 copies of The Shawshank Redemption
+We have 3 copies of The Godfather
+We have a copy of The Dark Knight
+We have 2 copies of Obama: An Intimate Portrait
+We have a copy of The Girl with Seven Names
+---
+We have 3 copies of The Shawshank Redemption
+We have 2 copies of The Godfather
+We have a copy of The Dark Knight
+We have a copy of Obama: An Intimate Portrait
+We have a copy of The Girl with Seven Names
+---
+We have 4 copies of The Shawshank Redemption
+We have 3 copies of The Godfather
+We have a copy of The Dark Knight
+We have 2 copies of Obama: An Intimate Portrait
+We have a copy of The Girl with Seven Names
+---
+Detailed description
+The Shawshank Redemption (1994) by Frank Darabont is located at Basement
+The Godfather (1972) by Francis Ford Coppola is located at 1st floor
+The Dark Knight (2008) by Christopher Nolan is available via Amazon
+Pete Souza (2017). Obama: An Intimate Portrait is located at 2nd floor
+Hyeonseo Lee (2015). The Girl with Seven Names is available for Kindle
