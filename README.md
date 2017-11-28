@@ -97,6 +97,7 @@ All instructions are written for Ubuntu 16.04 that you started using in Software
 * [What Is an Interface? (The Java™ Tutorials > Learning the Java Language > Object-Oriented Programming Concepts)](https://docs.oracle.com/javase/tutorial/java/concepts/interface.html)
 * [Interfaces (The Java™ Tutorials > Learning the Java Language > Interfaces and Inheritance)](https://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html)
 * [Java Interfaces](http://tutorials.jenkov.com/java/interfaces.html)
+* [Josh Bloch on Design](http://www.artima.com/intv/bloch13.html)
 
 ### GUI
 * **[Trail: Creating a GUI With JFC/Swing (The Java™ Tutorials)](http://docs.oracle.com/javase/tutorial/uiswing/)**
