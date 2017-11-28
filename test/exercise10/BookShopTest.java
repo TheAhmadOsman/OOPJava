@@ -73,8 +73,8 @@ public class BookShopTest {
   public void testBookShopCopyConstructor() {
     System.out.println("BookShop.BookShop(BookShop)");
     shop2.addNewTitle(new Book("", "", 0.00, 0));
-    assertEquals(shop2.size(), 16);
-    assertEquals(shop3.size(), 15);
+    assertEquals(16, shop2.size());
+    assertEquals(15, shop3.size());
 
   }
 
@@ -87,9 +87,9 @@ public class BookShopTest {
     shop1.discountAll(10.0);
     shop2.discountAll(20.0);
     shop3.discountAll(30.0);
-    assertEquals(shop1.getCatalog().get(0).getPrice(), 91.00, 0.01);
-    assertEquals(shop2.getCatalog().get(0).getPrice(), 72.06, 0.01);
-    assertEquals(shop3.getCatalog().get(0).getPrice(), 63.05, 0.01);
+    assertEquals(91.00, shop1.getCatalog().get(0).getPrice(), 0.01);
+    assertEquals(72.06, shop2.getCatalog().get(0).getPrice(), 0.01);
+    assertEquals(63.05, shop3.getCatalog().get(0).getPrice(), 0.01);
 
   }
 
