@@ -1,0 +1,15 @@
+Understanding Hardware Programs,Robert Miller,90.07,2005
+Introduction to Java Programs,James Miller,82.07,2011
+Using Operating Programs,Robert Johnson,80.87,2006
+Using Secure Systems,Jennifer Harris,100.51,2011
+Introduction to Secure Systems,William Miller,99.23,2010
+Using Hardware Programs,Maria White,104.05,2012
+Developing Hardware Systems,Charles Jackson,116.96,2009
+Understanding Operating Networks,Jennifer Miller,101.30,2011
+Building Secure Systems,Robert Thomas,84.60,2011
+Introduction to Networking Programs,Elizabeth Jones,96.05,2007
+Building Hardware Solutions,Maria Thomas,85.93,2011
+Building Hardware Security,Maria Moore,84.38,2011
+Introduction to Hardware Programs,Jennifer Anderson,93.15,2011
+Building Hardware Systems,Patricia Wilson,86.25,2011
+Understanding Operating Systems,Richard Moore,85.38,2011
