@@ -59,6 +59,7 @@ Feel free to clone this repository and to explore the projects.
 * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
 * [Trail: Learning the Java Language (The Java™ Tutorials)](https://docs.oracle.com/javase/tutorial/java/)
 * [Primitive Data Types (The Java™ Tutorials > Learning the Java Language > Language Basics)](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+* [Java For Biginners](https://www.scaler.com/topics/course/java-beginners/)
 
 ### File I/O
 * [Reading, Writing, and Creating Files (The Java™ Tutorials > Essential Classes > Basic I/O)](https://docs.oracle.com/javase/tutorial/essential/io/file.html)
