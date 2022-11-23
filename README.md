@@ -126,3 +126,4 @@ Feel free to clone this repository and to explore the projects.
 ### Data Structures
 * [Data Structures - GeeksforGeeks](http://www.geeksforgeeks.org/data-structures/)
 * [Data Structures | Coursera](https://www.coursera.org/learn/data-structures)
+* [Data Structures and Algorithms | Scaler Topics](https://www.scaler.com/topics/data-structures/)
